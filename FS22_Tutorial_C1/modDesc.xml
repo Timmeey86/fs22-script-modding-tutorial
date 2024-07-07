@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+    <author>Farmsim Tim</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>FS22 Tutorial Chapter 1</en>
+        <de>FS22 Tutorial Kapitel 1</de>
+    </title>
+
+    <description>
+        <en><![CDATA[The first chapter of the FS22 tutorial]]></en>
+        <de><![CDATA[Das erste Kapitel des FS22 Tutorials]]></de>
+    </description>
+
+    <iconFilename>icon_Tutorial_Chapter_1.dds</iconFilename>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/FS22_Tutorial_C1.lua" />
+    </extraSourceFiles>
+</modDesc>
