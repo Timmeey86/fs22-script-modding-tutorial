@@ -1,0 +1,21 @@
+{
+    "Lua.diagnostics.globals": [
+        "Class",
+        "SpecializationUtil",
+        "AttacherJoints",
+        "g_currentMission",
+        "setTextColor",
+        "setTextBold",
+        "setTextAlignment",
+        "renderText",
+        "setTextVerticalAlignment",
+        "RenderText",
+        "g_currentModName",
+        "g_currentModDirectory",
+        "g_specializationManager",
+        "g_vehicleTypeManager",
+        "Motorized",
+        "TypeManager",
+        "Utils"
+    ],
+}

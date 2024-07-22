@@ -1,1 +1,1 @@
-Tutorial Chapter 1 of https://github.com/Timmeey86/fs22-script-modding-tutorial/wiki
+Tutorial Chapters of https://github.com/Timmeey86/fs22-script-modding-tutorial/wiki
